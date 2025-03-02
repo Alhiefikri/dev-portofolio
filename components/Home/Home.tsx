@@ -1,4 +1,5 @@
 import About from "./About/About";
+import Blog from "./Blog/Blog";
 import Hero from "./Hero.tsx/Hero";
 import Project from "./Project/Project";
 import Reviews from "./Reviews/Reviews";
@@ -14,6 +15,7 @@ const Home = () => {
       <Project />
       <Skills />
       <Reviews />
+      <Blog />
     </div>
   );
 };
