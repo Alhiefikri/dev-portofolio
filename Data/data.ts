@@ -2,7 +2,7 @@ export const BaseInfo = {
   name: "Alhiefikri",
   position: "Full Stack Web Developer",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro numquam ad, vero consequuntur aperiam cumque voluptatum pariatur veniam? Qui facilis est ipsam odio cum!",
+    "I am a front-end developer specializing in Next.js, React, and modern web technologies. With a strong foundation in HTML, CSS, JavaScript, and Tailwind, I focus on building fast, responsive, and user-friendly web applications. performance optimization, and delivering seamless digital experiences. 🚀",
   profilePic: "/images/hero.png",
 };
 
@@ -171,9 +171,9 @@ export const skillsData = [
   },
   {
     id: 10,
-    title: "Vue",
-    image: "/images/vue.svg",
-    percent: "35%",
+    title: "Supabase",
+    image: "/images/supabase.svg",
+    percent: "50%",
   },
 ];
 
@@ -240,7 +240,7 @@ export const blogs = [
 ];
 
 export const contactData = {
-  phone: "+88(012345 789)",
-  email: "example@gmail.com",
-  address: "Dhaka , Bangladesh",
+  phone: "+62 82190 715067",
+  email: "alhiefikri12@gmail.com",
+  address: "Banggai , Sulawesi Tengah",
 };
